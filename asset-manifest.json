@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/uest-map-app/static/css/main.62f51ec9.css",
-    "main.js": "/uest-map-app/static/js/main.8580bdb3.js",
-    "static/js/787.147b9526.chunk.js": "/uest-map-app/static/js/787.147b9526.chunk.js",
-    "index.html": "/uest-map-app/index.html",
-    "main.62f51ec9.css.map": "/uest-map-app/static/css/main.62f51ec9.css.map",
-    "main.8580bdb3.js.map": "/uest-map-app/static/js/main.8580bdb3.js.map",
-    "787.147b9526.chunk.js.map": "/uest-map-app/static/js/787.147b9526.chunk.js.map"
+    "main.css": "/quest-map-app/static/css/main.62f51ec9.css",
+    "main.js": "/quest-map-app/static/js/main.89413fb8.js",
+    "static/js/787.147b9526.chunk.js": "/quest-map-app/static/js/787.147b9526.chunk.js",
+    "index.html": "/quest-map-app/index.html",
+    "main.62f51ec9.css.map": "/quest-map-app/static/css/main.62f51ec9.css.map",
+    "main.89413fb8.js.map": "/quest-map-app/static/js/main.89413fb8.js.map",
+    "787.147b9526.chunk.js.map": "/quest-map-app/static/js/787.147b9526.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62f51ec9.css",
-    "static/js/main.8580bdb3.js"
+    "static/js/main.89413fb8.js"
   ]
 }
